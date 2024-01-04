@@ -1,0 +1,17 @@
+[
+    {
+        "service": "custom carpentry",
+        "description": "built-ins, cabinetry, ",
+        "img": ""
+    },
+    {
+        "service": "remodelling",
+        "description": "indoor/outdoor kitchens, bathrooms, flooring",
+        "img": ""
+    },
+    {
+        "service": "repairs",
+        "description": "electrical, plumbing",
+        "img": ""
+    }
+]
